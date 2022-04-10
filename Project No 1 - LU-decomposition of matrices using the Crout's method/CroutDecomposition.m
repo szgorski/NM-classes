@@ -1,8 +1,3 @@
-%I certify that this assignment is entirely my work,
-%performed independently and without any help
-%from the sources which are not allowed.
-%Szymon Górski
-
 %The Crout's Algorithm
 function [L,U] = CroutDecomposition(A)
     A_size = size(A);

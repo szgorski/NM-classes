@@ -1,7 +1,3 @@
-%I certify that this assignment is entirely my work,
-%performed independently and without any help
-%from the sources which are not allowed.
-%Szymon Górski
 function [S] = SimpsonsRule(a, b, A, B0, B)
 A_size = size(A,2);
 B_size = size(B,2);
